@@ -1,0 +1,8 @@
+D:\C# Programs\OrderMgntADO\bin\Debug\OrderMgntADO.exe.config
+D:\C# Programs\OrderMgntADO\bin\Debug\OrderMgntADO.exe
+D:\C# Programs\OrderMgntADO\bin\Debug\OrderMgntADO.pdb
+D:\C# Programs\OrderMgntADO\obj\Debug\OrderMgntADO.csproj.AssemblyReference.cache
+D:\C# Programs\OrderMgntADO\obj\Debug\OrderMgntADO.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\OrderMgntADO\obj\Debug\OrderMgntADO.csproj.CoreCompileInputs.cache
+D:\C# Programs\OrderMgntADO\obj\Debug\OrderMgntADO.exe
+D:\C# Programs\OrderMgntADO\obj\Debug\OrderMgntADO.pdb
